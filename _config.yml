@@ -104,4 +104,4 @@ theme: cactus-white
 deploy:
   type: git
   repo: https://github.com/wuleying/wuleying.github.io
-  branch: blog_pages
+  branch: gh-pages
