@@ -103,5 +103,5 @@ theme: cactus-white
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/wuleying/wuleying.github.io
+  repo: git@github.com:wuleying/wuleying.github.io.git
   branch: gh-pages
